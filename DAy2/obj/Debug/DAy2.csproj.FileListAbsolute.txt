@@ -1,0 +1,7 @@
+C:\Users\mrs\source\repos\RigaCoding\DAy2\bin\Debug\DAy2.exe.config
+C:\Users\mrs\source\repos\RigaCoding\DAy2\bin\Debug\DAy2.exe
+C:\Users\mrs\source\repos\RigaCoding\DAy2\bin\Debug\DAy2.pdb
+C:\Users\mrs\source\repos\RigaCoding\DAy2\obj\Debug\DAy2.csprojResolveAssemblyReference.cache
+C:\Users\mrs\source\repos\RigaCoding\DAy2\obj\Debug\DAy2.csproj.CoreCompileInputs.cache
+C:\Users\mrs\source\repos\RigaCoding\DAy2\obj\Debug\DAy2.exe
+C:\Users\mrs\source\repos\RigaCoding\DAy2\obj\Debug\DAy2.pdb

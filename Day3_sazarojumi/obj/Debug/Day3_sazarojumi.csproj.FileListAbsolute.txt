@@ -1,0 +1,7 @@
+C:\Users\mrs\source\repos\RigaCoding\Day3_sazarojumi\bin\Debug\Day3_sazarojumi.exe.config
+C:\Users\mrs\source\repos\RigaCoding\Day3_sazarojumi\bin\Debug\Day3_sazarojumi.exe
+C:\Users\mrs\source\repos\RigaCoding\Day3_sazarojumi\bin\Debug\Day3_sazarojumi.pdb
+C:\Users\mrs\source\repos\RigaCoding\Day3_sazarojumi\obj\Debug\Day3_sazarojumi.csproj.CoreCompileInputs.cache
+C:\Users\mrs\source\repos\RigaCoding\Day3_sazarojumi\obj\Debug\Day3_sazarojumi.exe
+C:\Users\mrs\source\repos\RigaCoding\Day3_sazarojumi\obj\Debug\Day3_sazarojumi.pdb
+C:\Users\mrs\source\repos\RigaCoding\Day3_sazarojumi\obj\Debug\Day3_sazarojumi.csprojResolveAssemblyReference.cache

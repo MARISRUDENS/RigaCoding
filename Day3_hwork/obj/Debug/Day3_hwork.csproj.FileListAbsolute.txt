@@ -1,0 +1,7 @@
+C:\Users\mrs\source\repos\RigaCoding\Day3_hwork\bin\Debug\Day3_hwork.exe.config
+C:\Users\mrs\source\repos\RigaCoding\Day3_hwork\bin\Debug\Day3_hwork.exe
+C:\Users\mrs\source\repos\RigaCoding\Day3_hwork\bin\Debug\Day3_hwork.pdb
+C:\Users\mrs\source\repos\RigaCoding\Day3_hwork\obj\Debug\Day3_hwork.csprojResolveAssemblyReference.cache
+C:\Users\mrs\source\repos\RigaCoding\Day3_hwork\obj\Debug\Day3_hwork.csproj.CoreCompileInputs.cache
+C:\Users\mrs\source\repos\RigaCoding\Day3_hwork\obj\Debug\Day3_hwork.exe
+C:\Users\mrs\source\repos\RigaCoding\Day3_hwork\obj\Debug\Day3_hwork.pdb

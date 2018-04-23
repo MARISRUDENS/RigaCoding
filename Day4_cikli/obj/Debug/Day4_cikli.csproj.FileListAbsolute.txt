@@ -1,0 +1,7 @@
+C:\Users\mrs\source\repos\RigaCoding\Day4_cikli\obj\Debug\Day4_cikli.csprojResolveAssemblyReference.cache
+C:\Users\mrs\source\repos\RigaCoding\Day4_cikli\obj\Debug\Day4_cikli.csproj.CoreCompileInputs.cache
+C:\Users\mrs\source\repos\RigaCoding\Day4_cikli\bin\Debug\Day4_cikli.exe.config
+C:\Users\mrs\source\repos\RigaCoding\Day4_cikli\bin\Debug\Day4_cikli.exe
+C:\Users\mrs\source\repos\RigaCoding\Day4_cikli\bin\Debug\Day4_cikli.pdb
+C:\Users\mrs\source\repos\RigaCoding\Day4_cikli\obj\Debug\Day4_cikli.exe
+C:\Users\mrs\source\repos\RigaCoding\Day4_cikli\obj\Debug\Day4_cikli.pdb
